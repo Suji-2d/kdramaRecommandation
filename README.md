@@ -1,4 +1,5 @@
 # kdramaRecommandation
-recommends 10 k-drama and their ratings based the selected favorite
+Recommends 10 k-drama and their ratings based on the single selected favorite
 ## cosine similiraty model
+Based on the story line, genre and actors
 ## streamlit app
